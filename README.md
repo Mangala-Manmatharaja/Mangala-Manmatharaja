@@ -15,7 +15,7 @@ I’m a **Networking & Security student** at South Eastern University of Sri Lan
 
 - 🎓 BICT in Networking & Security Technology | SEUSL
 - 💼 Interested in SOC operations | Penetration testing | Network engineering & Design | CCNA
-- 🛠️ Building tools like **BMI Calculator** , **port scanners**, **subnet calculators**, and **automated scripts**
+- 🛠️ Building tools like **BMI Calculator** , **port scanners**, **subnet calculators**, and **automated scripts**.
 - 📡 Exploring Cisco Packet Tracer,secure network protocols, blockchain for privacy, and AI for anomaly detection for my research.
 - 📫 Reach out via [LinkedIn](www.linkedin.com/in/m-mangala-045a10229) (M. Mangala) or [Email](lucifer18mg@gmail.com) (lucifer18mg@gmail.com)
 
