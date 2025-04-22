@@ -58,13 +58,13 @@ I’m a **Networking & Security student** at South Eastern University of Sri Lan
 
 ## 📈 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mangala-manmatharaja&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mangala-Manmatharaja&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mangala-Manmatharaja&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mangala-manmatharaja&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mangala-Manmatharaja&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
