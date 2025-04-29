@@ -49,8 +49,9 @@ I’m a **Networking & Security student** at South Eastern University of Sri Lan
 
 ## 🚀 Highlighted Projects
 - **🔎 [Python Port Scanner](https://github.com/mangala-manmatharaja/port-scanner)** — Simple yet powerful Python-based scanner for discovering open ports. Tested ethically.
-- **🧮 Subnet Calculator** — Automating IP subnetting logic for efficient network design *(Progress)*
+- **🧮 Subnet Calculator** — Automating IP subnetting logic for efficient network design with the mobile app.
 - **🔧 Network Automation Toolkit** — Python scripts to automate repetitive tasks like pings, traceroutes, and VLAN configs *(In Progress)*
+- **🔎 Network Packet Sniffer (Progress)
 
 > ⚠️ *All tools are built and tested in controlled, ethical environments for educational purposes.*
 
